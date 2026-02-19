@@ -36,15 +36,15 @@ The app is designed to streamline the ordering process, making it convenient for
 ---
 
 ## 📂 Project Structure
-mobile_app/ \n
-├── androidTest/ # Instrumentation tests \n
-├── main/ # Main application code \n
-│ ├── java/ # Java source files \n
-│ ├── res/ # Resources (layouts, drawables, etc.) \n
-│ └── AndroidManifest.xml \n
-├── test/ # Unit tests \n
-├── build.gradle.kts # Build configuration \n
-└── google-services.json # Firebase configuration \n
+mobile_app/ \
+├── androidTest/ # Instrumentation tests \
+├── main/ # Main application code \
+│ ├── java/ # Java source files \
+│ ├── res/ # Resources (layouts, drawables, etc.) \
+│ └── AndroidManifest.xml \
+├── test/ # Unit tests \
+├── build.gradle.kts # Build configuration \
+└── google-services.json # Firebase configuration \
 
 
 ---
