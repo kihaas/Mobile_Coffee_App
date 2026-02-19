@@ -25,6 +25,7 @@ The app is designed to streamline the ordering process, making it convenient for
 <img width="1276" height="715" alt="image" src="https://github.com/user-attachments/assets/61365342-245f-4ef9-ab78-9033af6591dd" />
 <img width="1274" height="711" alt="image" src="https://github.com/user-attachments/assets/fe8e630d-9e1e-4e91-9653-8aacb6886ef3" />
 <img width="1276" height="715" alt="image" src="https://github.com/user-attachments/assets/3b1df08f-7130-4c90-b768-3e9402583e86" />
+
 ## 🛠️ Technologies Used
 
 - **Frontend**: Kotlin (Android Development)
@@ -35,15 +36,15 @@ The app is designed to streamline the ordering process, making it convenient for
 ---
 
 ## 📂 Project Structure
-mobile_app/
-├── androidTest/ # Instrumentation tests
-├── main/ # Main application code
-│ ├── java/ # Java source files
-│ ├── res/ # Resources (layouts, drawables, etc.)
-│ └── AndroidManifest.xml
-├── test/ # Unit tests
-├── build.gradle.kts # Build configuration
-└── google-services.json # Firebase configuration
+mobile_app/ \n
+├── androidTest/ # Instrumentation tests \n
+├── main/ # Main application code \n
+│ ├── java/ # Java source files \n
+│ ├── res/ # Resources (layouts, drawables, etc.) \n
+│ └── AndroidManifest.xml \n
+├── test/ # Unit tests \n
+├── build.gradle.kts # Build configuration \n
+└── google-services.json # Firebase configuration \n
 
 
 ---
@@ -63,6 +64,7 @@ mobile_app/
    ```bash
    git clone https://github.com/kihaas/mobile_app.git
    cd mobile_app
+   ```
 2.Open the project in Android Studio.
 
 3.Add your google-services.json file to the app/ directory.
